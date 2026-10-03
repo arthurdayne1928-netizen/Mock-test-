@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Circular Shield Base -->
+    <path
+        android:fillColor="#1AFFFFFF"
+        android:pathData="M54,22 C71.67,22 86,36.33 86,54 C86,71.67 71.67,86 54,86 C36.33,86 22,71.67 22,54 C22,36.33 36.33,22 54,22 Z" />
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#C8961B"
+        android:strokeWidth="1.5"
+        android:pathData="M54,23 C71.12,23 85,36.88 85,54 C85,71.12 71.12,85 54,85 C36.88,85 23,71.12 23,54 C23,36.88 36.88,23 54,23 Z" />
+
+    <!-- Open Book -->
+    <!-- Left page -->
+    <path
+        android:fillColor="#F6E9BF"
+        android:pathData="M52,56 C44,53 35,53.5 30,55.5 L30,73.5 C35,71.5 44,71 52,74 Z" />
+    <!-- Right page -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M56,56 C64,53 73,53.5 78,55.5 L78,73.5 C73,71.5 64,71 56,74 Z" />
+    <!-- Book spine / center line -->
+    <path
+        android:fillColor="#C8961B"
+        android:pathData="M53,55.5 L55,55.5 L55,75 L53,75 Z" />
+    <!-- Book lines on left page -->
+    <path
+        android:fillColor="#1B6B47"
+        android:pathData="M34,60 L48,58.5 L48,59.8 L34,61.3 Z M34,64 L48,62.5 L48,63.8 L34,65.3 Z M34,68 L48,66.5 L48,67.8 L34,69.3 Z" />
+    <!-- Book lines on right page -->
+    <path
+        android:fillColor="#1B6B47"
+        android:pathData="M60,58.5 L74,60 L74,61.3 L60,59.8 Z M60,62.5 L74,64 L74,65.3 L60,63.8 Z M60,66.5 L74,68 L74,69.3 L60,67.8 Z" />
+
+    <!-- Traditional Nilavilakku / Lamp Flame above book -->
+    <!-- Lamp base / stand -->
+    <path
+        android:fillColor="#C8961B"
+        android:pathData="M51,53 L57,53 L55,49 L53,49 Z" />
+    <!-- Lamp oil saucer -->
+    <path
+        android:fillColor="#E5B232"
+        android:pathData="M48,49 C48,51 60,51 60,49 C59,48 49,48 48,49 Z" />
+    <!-- Radiant Flame -->
+    <path
+        android:fillColor="#F6E9BF"
+        android:pathData="M54,30 C51,36 49,41 51,46 C52,48 56,48 57,46 C59,41 57,36 54,30 Z" />
+    <path
+        android:fillColor="#C8961B"
+        android:pathData="M54,34 C52.5,38 51.5,41 52.5,44 C53,45.5 55,45.5 55.5,44 C56.5,41 55.5,38 54,34 Z" />
+
+    <!-- Star / Laurel accents -->
+    <path
+        android:fillColor="#F6E9BF"
+        android:pathData="M54,25.5 L55.2,28 L57.8,28.4 L56,30.2 L56.4,32.8 L54,31.5 L51.6,32.8 L52,30.2 L50.2,28.4 L52.8,28 L54,25.5 Z" />
+</vector>

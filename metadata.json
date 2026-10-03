@@ -1,0 +1,6 @@
+{
+  "name": "Kerala PSC Mock Test",
+  "description": "Kerala PSC Mock Test preparation app featuring customizable mock tests, timer, negative marking, question palette, answer review, bulk question parser, and full question bank management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
